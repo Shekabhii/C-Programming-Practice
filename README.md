@@ -9,3 +9,4 @@ This repository contains my C programming practice programs while learning C fun
 - Conditional Statements
 - Loops
 - Arrays
+- pointers
